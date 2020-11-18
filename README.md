@@ -1,5 +1,4 @@
 # Omnia_is2_2
-My first project
 First repo
 1. Asd1
 2. Asd2
